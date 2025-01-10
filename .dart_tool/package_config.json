@@ -27,9 +27,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/collection-1.18.0",
+      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/collection-1.19.0",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.4"
     },
     {
       "name": "flutter",
@@ -63,9 +63,9 @@
     },
     {
       "name": "flutter_sticky_header",
-      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/flutter_sticky_header-0.6.5",
+      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/flutter_sticky_header-0.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "flutter_svg",
@@ -117,7 +117,7 @@
     },
     {
       "name": "liquid_flutter",
-      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/liquid_flutter-18.0.0-0",
+      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/liquid_flutter-18.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -237,9 +237,9 @@
     },
     {
       "name": "value_layout_builder",
-      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/value_layout_builder-0.3.1",
+      "rootUri": "file:///Users/m277439/.pub-cache/hosted/pub.dev/value_layout_builder-0.4.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.17"
     },
     {
       "name": "vector_graphics",
@@ -290,10 +290,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-01-09T12:13:28.739697Z",
+  "generated": "2025-01-10T11:30:10.564634Z",
   "generator": "pub",
-  "generatorVersion": "3.5.4",
+  "generatorVersion": "3.6.0",
   "flutterRoot": "file:///Users/m277439/flutter-sdk",
-  "flutterVersion": "3.24.5",
+  "flutterVersion": "3.27.1",
   "pubCache": "file:///Users/m277439/.pub-cache"
 }
