@@ -1,14 +1,13 @@
 name: liquid_flutter_emd_theme
 description: EMD theme for liquid flutter
 repository: https://github.com/emdgroup-liquid/liquid-flutter-emd-theme
-version: 0.0.1-0
+version: 0.0.1
 environment:
   sdk: ">=3.0.0 <4.0.0"
 dependencies:
   flutter:
     sdk: flutter
   liquid_flutter: ^18.0.0
-
 flutter:
   uses-material-design: true
   fonts:

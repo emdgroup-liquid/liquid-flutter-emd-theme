@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "Custom"
+  "license": "Custom",
+  "dependencies": {
+    "yaml": "^2.7.0"
+  }
 }
