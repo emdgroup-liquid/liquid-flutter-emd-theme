@@ -96,12 +96,3 @@ jobs:
           body_path: last_version.md
           prerelease: false
 
-      - name: Build example
-        run: |
-          cd example 
-          flutter build web --release
-      - name: Deploy example
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./example/build/web
