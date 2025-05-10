@@ -8,10 +8,10 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.0.1 (2025-01-10)
 
-
 ### Features
 
-* initial commit ([98f7cf6](https://github.com/emdgroup-liquid/liquid-flutter-emd-theme/commit/98f7cf679c3ba267012809b4d1fa8b110b51a790))
+- initial commit ([98f7cf6](https://github.com/emdgroup-liquid/liquid-flutter-emd-theme/commit/98f7cf679c3ba267012809b4d1fa8b110b51a790))
 
 ## 0.0.1-0
+
 - Initial release
